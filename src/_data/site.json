@@ -1,8 +1,9 @@
 {
-  "baseURL": "https://awesome11ty.ttntm.me",
-  "author": "AWE.SOME",
-  "description": "AWE.SOMEty - A Landing Page Template for 11ty",
-  "title": "AWE.SOMEty - A Landing Page Template for 11ty",
+  "baseURL": "https://bendyson.crypto",
+  "author": "BenDyson",
+  "description": "TheDragonsDen.Crypto - incubator/crowdfunding platform. Anyone can submit an idea, and anyone can contribute to an idea (much like github)",
+  "title": "AWE.SOMEty - Users will earn crypto based on: The "worth" of the idea they submitted, The "worth" of the work they contributed, The "worth" of the idea they funded
+A decentralized funding pool for startups",
   "language": "en",
   "social": [
     {
